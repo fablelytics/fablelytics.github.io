@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Fablelytics"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : &name "Fablelytics" # &name is a YAML anchor which can be *referenced later
-description              : &description "Creating text analytics software solutions."
+name                     : "Fablelytics" # &name is a YAML anchor which can be *referenced later
+description              : "Creating text analytics software solutions."
 url                      : https://fablelytics.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/fablelytics" # the subpath of your site, e.g. "/blog"
 repository               : "fablelytics/" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
