@@ -9,7 +9,6 @@ title: Fablelytics
 description: Creating text analytics software solutions
 
 # --- Navigation bar options --- #
-
 # List of links in the navigation bar
 navbar-links:
   About Us: "aboutus"
